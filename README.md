@@ -1,2 +1,2 @@
 # Backend_NodeMailer
-Sending an email using NodeMailer
+Sending an email from site using NodeMailer
